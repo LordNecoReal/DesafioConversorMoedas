@@ -22,7 +22,7 @@ public class Main {
             System.out.println("Bem-vindo ao Conversor de Moedas!");
             System.out.println("Moeda base: USD - Dólar Americano");
             System.out.println("1. Dólar (USD) >> Peso Argentino (ARS)");
-            System.out.println("2. Dólar (USD) >> Boliviano Boliviano (BOB)");
+            System.out.println("2. Dólar (USD) >> Boliviano da Bolivia (BOB)");
             System.out.println("3. Dólar (USD) >> Real Brasileiro (BRL)");
             System.out.println("4. Dólar (USD) >> Peso Chileno (CLP)");
             System.out.println("5. Dólar (USD) >> Peso Colombiano (COP)");
